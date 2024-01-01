@@ -1,4 +1,3 @@
 # Todo-list
-Is a menu-based todo list that lets the user add a list item, show all list items and mark them as done. It's a basic program built with C structures. 
 
-*You are welcome to use the code if you want.*
+This repository contains a simple todo list applications built with C structures. Users are brought to a menu wherein they can add items to be done, remove them or mark as done.
